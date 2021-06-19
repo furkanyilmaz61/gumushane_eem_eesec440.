@@ -30,9 +30,12 @@ En Küçük Kareler
 Şekil 7: Bir boyutlu optimizasyon (veya regresyon) probleminin görselleştirilmiş hali.
 *B. Evrişimsel Sinir Ağı (CNN)*
 Dersin son haftalarında görseller üzerinde sınıflandırma örneği çalışabiliriz. Kaggle'da kedi-köpek görüntü deposu. [2]'de verilen öğreticiyi takip edeceğiz. Kedi ve köpek görüntülerinin CNN aracılığıyla sınıflandırılması için lütfen Şekil 8 ve 9'a bakın.
-![Uploading 122469484-afceba80-cfc5-11eb-9a4a-70c842359fcc.png…]()
+<img width="1153" alt="122469484-afceba80-cfc5-11eb-9a4a-70c842359fcc" src="https://user-images.githubusercontent.com/83355659/122642590-eca8c780-d113-11eb-8260-513f4b87a5b5.png">
 Şekil 8: CNN aracılığıyla kedi ve köpek görüntülerinin sınıflandırılması.
-![Uploading 122469518-b826f580-cfc5-11eb-9f65-dd3137e880c8.gif…]()
+![122469518-b826f580-cfc5-11eb-9f65-dd3137e880c8](https://user-images.githubusercontent.com/83355659/122642643-237edd80-d114-11eb-93b1-bdecc7c89f43.gif
+![122469518-b826f580-cfc5-11eb-9f65-dd3137e880c8](https://user-images.githubusercontent.com/83355659/122642738-98eaae00-d114-11eb-8485-14c352164274.gif)
 Şekil 9: Derin öğrenme ile kedi ve köpeklerin sınıflandırılması.
 
+*Referanslar*
+[1] T. Guillod, P. Papamanolis ve JW Kolar, "Yapay Sinir Ağı (YSA) Tabanlı Hızlı ve Doğru İndüktör Modelleme ve Tasarım", IEEE Open Journal of Power Electronics, cilt. 1, pp. 284-299, 2020, doi: 10.1109/OJPEL.2020.3012777. [2] "Köpek ve kedi fotoğrafları nasıl sınıflandırılır (%97 doğrulukla)." https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-to-classify-photos-of-dogs-and-cats/ . Erişim tarihi: 2021-3-10.
 
